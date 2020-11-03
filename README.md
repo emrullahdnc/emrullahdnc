@@ -1,8 +1,9 @@
 # Hi, I am Emrullah DANACI 👋
 
- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrullah-danaci/)
- [![Mail Badge](https://img.shields.io/badge/emrullahdnc@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:emrullahdnc@gmail.com)](mailto:emrullahdnc@gmail.com)
+ [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrullah-danaci/)  
  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullahdnc" alt="emrullahdnc" /> </p>
+
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
